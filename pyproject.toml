@@ -259,7 +259,7 @@ cu121-torch240 = [
 ]
 cu124-torch240 = [
     "unsloth[huggingface]",
-    "bitsandbytes>=0.43.3",
+    "bitsandbytes>=0.42.0",
     "unsloth[cu124onlytorch240]",
 ]
 cu118-torch250 = [
@@ -274,7 +274,7 @@ cu121-torch250 = [
 ]
 cu124-torch250 = [
     "unsloth[huggingface]",
-    "bitsandbytes>=0.43.3",
+    "bitsandbytes>=0.42.0",
     "unsloth[cu124onlytorch250]",
 ]
 cu118-torch251 = [
@@ -299,7 +299,7 @@ cu118-torch260 = [
 ]
 cu124-torch260 = [
     "unsloth[huggingface]",
-    "bitsandbytes>=0.45.1",
+    "bitsandbytes>=0.42.0",
     "unsloth[cu124onlytorch260]",
 ]
 cu126-torch260 = [
