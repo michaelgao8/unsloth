@@ -478,7 +478,7 @@ cu121-ampere-torch251 = [
 ]
 cu124-ampere-torch251 = [
     "unsloth[huggingface]",
-    "bitsandbytes>=0.43.3",
+    "bitsandbytes>=0.42.0",
     "unsloth[cu124onlytorch251]",
     "unsloth[flashattention]",
 ]
@@ -490,7 +490,7 @@ cu118-ampere-torch260 = [
 ]
 cu124-ampere-torch260 = [
     "unsloth[huggingface]",
-    "bitsandbytes>=0.45.1",
+    "bitsandbytes>=0.42.0",
     "unsloth[cu124onlytorch260]",
     "unsloth[flashattention]",
 ]
